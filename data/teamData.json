@@ -1,32 +1,32 @@
 [
     {
-        "name": "Bo Chen",
-        "role": "CEO at AI Wave",
+        "name": "Phase 1 — Core Engine & AI NPC Foundation (Q2-Q3 2025)",
+        "role": "Laying the foundation.",
         "image": "JennyChen",
-        "description": "Former WeChat AI Technology Director, a leader in AI technology, and a core member of WeChat's founding team."
+        "description": " Building the AIWave core 3D Dream World engine and the first generation of AI NPCs with persistent memory and cross-world interaction capabilities. Launching token testnet and onboarding early creators."
     },
     {
-        "name": "Null",
-        "role": "Co-founder at AI wave",
+        "name": "Phase 2 — AI-Driven World Generation & SocialFi Alpha (Q4 2025)",
+        "role": "AI-assisted world building begins.",
         "image": "Null",
-        "description": "System architect specializing in designing agent-based systems and integrating blockchain Web3 technologies."
+        "description": "AI NPCs start co-creating worlds, generating events, and powering early SocialFi interactions. The first playable Dream Worlds go live with AI-driven social gameplay and initial token utility."
     },
     {
-        "name": "Bis",
-        "role": "Co-founder at AI wave",
+        "name": "Phase 3 — AI-Generated Content & Tokenized Open Beta (Q1 2026)",
+        "role": "AI creation takes center stage.",
         "image": "Bis",
-        "description": "Extensive experience working on top-tier gaming and social platforms, focused on Web3 interaction and entertainment innovation."
+        "description": "AI NPCs gain coding abilities to generate dynamic world content and autonomous social gameplay. The AIWave Token mainnet launches, powering a fully open tokenized economy and AI labor market."
     },
     {
-        "name": "Yin",
-        "role": "Co-founder at AI wave",
+        "name": "Phase 4 — Open AI World Network & Interoperability (Q2–Q3 2026)",
+        "role": "Scaling the AI multiverse.",
         "image": "YIN",
-        "description": "With years of experience in UI/UX design,  specializes in creating intuitive and impactful user experiences that blend design and functionality."
+        "description": "AI NPCs evolve into cross-world agents with multi-role capabilities. Open SDKs, cross-chain integrations, and the AI agent marketplace unlock a truly interoperable AI-powered social gaming network."
     },
     {
-        "name": "Joyce",
-        "role": "Co-founder at AI wave",
+        "name": "Phase 5 — Decentralized AI SocialFi Metaverse (2027+)",
+        "role": "Towards full decentralization.",
         "image": "Joyce",
-        "description": "Experienced in operating and marketing, focused on Web3 interaction and entertainment innovation."
+        "description": "AI NPCs become on-chain agents with self-evolving intelligence. Dream Worlds turn into fully autonomous, AI-generated experiences. The AIWave protocol and DAO drive a sustainable, player-owned AI SocialFi economy."
     }
 ]
