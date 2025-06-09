@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Bo Chen",
+        "role": "CEO at AI Wave",
+        "image": "JennyChen",
+        "description": "Former WeChat AI Technology Director, a leader in AI technology, and a core member of WeChat's founding team."
+    },
+    {
+        "name": "Null",
+        "role": "Co-founder at AI wave",
+        "image": "Null",
+        "description": "System architect specializing in designing agent-based systems and integrating blockchain Web3 technologies."
+    },
+    {
+        "name": "Bis",
+        "role": "Co-founder at AI wave",
+        "image": "Bis",
+        "description": "Extensive experience working on top-tier gaming and social platforms, focused on Web3 interaction and entertainment innovation."
+    },
+    {
+        "name": "Yin",
+        "role": "Co-founder at AI wave",
+        "image": "YIN",
+        "description": "With years of experience in UI/UX design,  specializes in creating intuitive and impactful user experiences that blend design and functionality."
+    },
+    {
+        "name": "Joyce",
+        "role": "Co-founder at AI wave",
+        "image": "Joyce",
+        "description": "Experienced in operating and marketing, focused on Web3 interaction and entertainment innovation."
+    }
+]
