@@ -1492,3 +1492,17 @@ body.dark-screen .normalCursor, .cursor-dark {
     height: 100%;
     object-fit: cover;
 }
+
+
+/*Customs*/
+.create-button{
+    background-color: black;
+    border-radius: 15px;
+    color: white !important;
+    padding: 10px 20px;
+    font-size:clamp(23px,3vw,100px);
+    transition: all 0.2s ease-in-out;
+}
+.create-button:active{
+    transform: scale(1.1);
+}
